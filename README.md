@@ -11,7 +11,9 @@ How to run:
   ```sh
    pip install -r requirements.txt
 
-4. Windows:
+3. For  Windows
    ```sh
-    python -m streamlit run __init__.py
+   python -m streamlit run __init__.py
+   
+    
 
