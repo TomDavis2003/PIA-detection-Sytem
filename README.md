@@ -3,9 +3,13 @@
 This project is a Prompt Injection Attack (PIA) Detection System using an LSTM model with SHAP-based explainability, built with Streamlit as the frontend. 
 
 ## Core Features
+
 ✅ Detects Prompt Injection Attacks using LSTM
+
 ✅ Provides explainability using SHAP
+
 ✅ Interactive Streamlit UI for real-time predictions
+
 ✅ Dataset visualization
 
 ## How to Run  
@@ -70,7 +74,11 @@ python model_training.py
 
 ## Key Technologies
 🔸 Deep Learning: TensorFlow (LSTM)
+
 🔸 Explainability: SHAP
+
 🔸 Frontend: Streamlit
+
 🔸 Data Processing: Pandas, NumPy
+
 🔸 Evaluation: Scikit-Learn
