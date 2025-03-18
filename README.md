@@ -85,10 +85,10 @@ python model_training.py
 
 
 ## Contributors
-Akshara Balan
+* Akshara Balan
 
-Alan C M
+* Alan C M
 
-Maria Baiju
+* Maria Baiju
 
-Tom Davis
+* Tom Davis
