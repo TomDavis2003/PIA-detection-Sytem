@@ -82,3 +82,13 @@ python model_training.py
 🔸 Data Processing: Pandas, NumPy
 
 🔸 Evaluation: Scikit-Learn
+
+
+## Contributors
+* Akshara Balan
+
+* Alan C M
+
+* Maria Baiju
+
+* Tom Davis
